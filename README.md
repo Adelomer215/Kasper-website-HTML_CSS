@@ -8,4 +8,4 @@ Kasper is a free PSD template to practice HTML CSS
   Free Google font used, the link is in the "help" file
 </p>
 
-<p>The link to the project site is: <a href="https://www.graphberry.com/item/kasper-one-page-psd-template" target="_blank">Leon-Agency</a></p>
+<p>The link to the project site is: <a href="https://www.graphberry.com/item/kasper-one-page-psd-template" target="_blank">Kasper-Agency</a></p>
